@@ -1,0 +1,15 @@
+{
+  "name": "taxeon",
+  "private": true,
+  "workspaces": [
+    "packages/*"
+  ],
+  "scripts": {
+    "dev": "yarn workspace @taxeon/web dev",
+    "build": "yarn workspaces run build",
+    "test": "yarn workspaces run test"
+  },
+  "devDependencies": {
+    "typescript": "^5.3.3"
+  }
+} 
