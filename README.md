@@ -74,4 +74,4 @@ For detailed documentation, please refer to the `/docs` directory:
 
 - Taxeon-Product-Strategy.md
 - Taxeon-UX-Design-Guide.md
-- Taxeon-Multi-Platform-Architecture.md 
+- Taxeon-Multi-Platform-Architecture.md
